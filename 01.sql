@@ -1,3 +1,4 @@
+-- Active: 1790254078041@@127.0.0.1@5432@superstore
 CREATE Table customers (
     customer_id VARCHAR(20) PRIMARY KEY,
     customer_name VARCHAR(100),
