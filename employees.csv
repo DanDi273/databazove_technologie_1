@@ -1,0 +1,21 @@
+employee_id,name,department,gender,salary
+E001,Alice Novak,IT,Female,92000
+E002,Peter Kovac,Sales,Male,78000
+E003,Maria Horvath,HR,Female,68000
+E004,Martin Urban,IT,Male,105000
+E005,Lucia Benova,Finance,Female,84000
+E006,Adam Polak,Sales,Male,72000
+E007,Simona Kralova,IT,Female,98000
+E008,Jakub Toth,Marketing,Male,76000
+E009,Nina Varga,HR,Female,71000
+E010,David Balaz,Finance,Male,89000
+E011,Elena Mikusova,Sales,Female,81000
+E012,Filip Blaha,IT,Male,88000
+E013,Barbora Kucerova,Marketing,Female,79000
+E014,Samuel Farkas,Finance,Male,93000
+E015,Kristina Polakova,HR,Female,75000
+E016,Richard Nemec,IT,Male,110000
+E017,Monika Simonova,Sales,Female,87000
+E018,Tomáš Bartoš,Marketing,Male,83000
+E019,Veronika Bielikova,Finance,Female,96000
+E020,Michal Kollar,IT,Male,82000
