@@ -1,0 +1,12 @@
+pravidlo,pocet_chybnych_riadkov
+invalid_orderid_format,0
+duplicate_orderid,22
+invalid_region,42
+invalid_product,98
+invalid_quantity,24
+invalid_salesamount,38
+invalid_discount,177
+invalid_orderdate,17
+invalid_deliverydate,10
+delivery_before_order,15
+invalid_phone,34
